@@ -1,0 +1,20 @@
+.profile {
+    display: flex;
+    gap: 12px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 12px;
+
+}
+
+.profileTitle {
+    font-size: 24px;
+}
+
+.profileImg {
+    width: 250px;
+}
+
+.profileImg img {
+    width: inherit;
+}

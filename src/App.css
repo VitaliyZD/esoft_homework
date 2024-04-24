@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  width: 800px;
+  padding-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Skills {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.Techs {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.title {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}
